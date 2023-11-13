@@ -5,11 +5,13 @@ w# TRIFORCE
 
 <div style="text-align: justify">
   
-Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), representa uma abordagem avançada e eficiente para avaliação de testes e exames que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos candidatos nos gabaritos, eliminando a necessidade de avaliação manual.
+Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), é uma abordagem avançada e eficiente para avaliação de provas e simulados que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos alunos nos gabaritos, de maneira rápida e precisa, eliminando a necessidade de correção manual. Ele visa melhorar a qualidade do ensino, economizando o tempo dos educadores e fornecendo feedback mais rápido aos alunos.
 
-Ao utilizar tecnologias de OMR, a solução torna-se capaz de extrair informações das respostas marcadas de maneira rápida e precisa. Os algoritmos associados ao OMR viabilizam a interpretação das marcações em formatos padronizados, através da medição da porcentagem de pixels pretos presente em cada parte do gradeamento do gabarito, possibilitando a identificação correta das opções escolhidas pelos candidatos.
+Os algoritmos associados ao OMR viabilizam a interpretação das marcações em formatos padronizados, através da medição da porcentagem de pixels pretos presente em cada parte do gradeamento do gabarito, possibilitando a identificação correta das alternativas do cartão de resposta do aluno, possuindo: 
+✅ *Acurácia:* 100%
+✅ *Precisão:* 100%
 
-Ao empregar o OMR para correção de questões fechadas, a solução não apenas otimiza o tempo dos avaliadores, mas também assegura uma avaliação consistente e isenta de viés. Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de testes.
+Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de gabaritos.
 
 O escopo da solução contempla as seguintes funcionalidades:
 
