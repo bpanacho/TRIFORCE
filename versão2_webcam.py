@@ -1,3 +1,4 @@
+
 import cv2
 import pickle
 import extrairGabarito as exG
