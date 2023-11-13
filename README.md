@@ -12,16 +12,16 @@ Ao utilizar tecnologias de OMR, a solução torna-se capaz de extrair informaç�
 Ao empregar o OMR para correção de questões fechadas, a solução não apenas otimiza o tempo dos avaliadores, mas também assegura uma avaliação consistente e isenta de viés. Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de testes.
 
 O escopo da solução contempla as seguintes funcionalidades:
-▪	Escaneamento de provas físicas;
-▪	Leitor ótico de marcas (OMR) para fazer uma visualização especial que consegue identificar marcas feitas a caneta preta nas posições de um formulário pré-definido (gabarito do professor e cartão resposta dos alunos);
-▪	Correção automática com base em chaves de resposta predefinidas (gabarito do professor);
-▪	Geração de relatórios individuais para cada aluno;
-▪	Análise estatística de desempenho por questão;
-▪	Suporte a questões de múltipla escolha;
-▪	Exportação de resultados em planilhas do Excel;
-▪	A Webcam, a câmera do celular ou a embutida no notebook são utilizadas para capturar imagens das provas ou simulados;
-▪	Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
+- 📄 Escaneamento de provas físicas;
+- 🖊️ Leitor ótico de marcas (OMR) para visualização especial identificando marcas a caneta preta em um formulário pré-definido (gabarito do professor e cartão resposta dos alunos);
+- ✔️ Correção automática com base em chaves de resposta predefinidas (gabarito do professor);
+- 📊 Geração de relatórios individuais para cada aluno;
+- 📈 Análise estatística de desempenho por questão;
+- ❓ Suporte a questões de múltipla escolha;
+- 📑 Exportação de resultados em planilhas do Excel;
+- 📷 Uso de Webcam, câmera do celular ou câmera embutida no notebook para capturar imagens das provas ou simulados;
+- 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
 ### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
