@@ -22,12 +22,3 @@
 ![1º Câmera notebook](https://img.shields.io/badge/-📷%20Camera%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
-<div align="center">
-  <br><p align="centre"><b>Contador de Visitas ao Projeto</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/bpanacho/TRIFORCE/count.svg" /></p> 
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
