@@ -1,9 +1,7 @@
 w# TRIFORCE
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral;)
-
-[![Seta para Baixo](https://img.shields.io/badge/🔽-Para%20Baixo-0D1117?style=for-the-badge)](#)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral;) 
 
 <div style="text-align: justify">
   
