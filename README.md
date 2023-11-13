@@ -4,6 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;)
 <div style="text-align: justify">
                                               UM POUCO SOBRE O PROJETO 
+
   
 Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), representa uma abordagem avançada e eficiente para avaliação de testes e exames que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos candidatos nos gabaritos, eliminando a necessidade de avaliação manual.
 
