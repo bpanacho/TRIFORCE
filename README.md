@@ -25,7 +25,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Contador de Visitas ao Projeto</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/bpanacho/triforce/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/bpanacho/TRIFORCE/count.svg" /></p> 
   <br>
 </div>
 
