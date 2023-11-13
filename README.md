@@ -17,8 +17,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117&link=https://opencv.org/)&nbsp;
 ![Openpyxl](https://img.shields.io/badge/-Openpyxl-0D1117?style=for-the-badge&logo=openpyxl&labelColor=0D1117&link=https://openpyxl.readthedocs.io/)&nbsp;
 
-### VERSÕES:
-### Ferramentas:
+### Versões:
 ![1º Câmera notebook](https://img.shields.io/badge/-📷%20Camera%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
