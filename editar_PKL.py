@@ -1,5 +1,6 @@
 import pickle
 
+
 # Passo 1: Carregue os dados do arquivo pickle existente
 with open('campos.pkl', 'rb') as arquivo_pkl:
     dados = pickle.load(arquivo_pkl)
