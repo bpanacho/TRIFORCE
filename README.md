@@ -2,8 +2,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;)
- Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), representa uma abordagem avançada e eficiente para avaliação de testes e exames que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos candidatos nos gabaritos, eliminando a necessidade de avaliação manual.
+
+Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), representa uma abordagem avançada e eficiente para avaliação de testes e exames que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos candidatos nos gabaritos, eliminando a necessidade de avaliação manual.
+ 
 Ao utilizar tecnologias de OMR, a solução torna-se capaz de extrair informações das respostas marcadas de maneira rápida e precisa. Os algoritmos associados ao OMR viabilizam a interpretação das marcações em formatos padronizados, através da medição da  porcentagem de pixels pretos presente em cada parte do gradeamento do gabarito , possibilitando a identificação correta das opções escolhidas pelos candidatos.
+
 Ao empregar o OMR para correção de questões fechadas, a solução não apenas otimiza o tempo dos avaliadores, mas também assegura uma avaliação consistente e isenta de viés. Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de testes.
 
 ### Linguagens:
