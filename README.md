@@ -3,6 +3,15 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;)
 
+
+<div align="center" dir="auto">
+  <a href="https://github.com/bpanacho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpanacho&;show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;" width="42%">   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpanacho&layout=compact&langs_count=16&theme=dracula" width="50%">
+</a></div>
+
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Linguagens:
