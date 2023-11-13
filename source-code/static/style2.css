@@ -1,0 +1,122 @@
+:root {
+  --white : #f2fcff;
+  --grey: #0c344faa;
+  --black : #020c22cc;
+  --black-s : #19a0a2dc;
+  --purple : #7283c2cc;
+} 
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(img/TRI.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+
+.texto-container {
+  border-radius: 20px;
+  padding: 0px;
+  margin: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 95px;
+  display: inline-block;
+  text-align: center;
+  background: linear-gradient(to top, rgba(46, 94, 109, 0.4) 40%, rgba(46, 94, 109, 0));
+}
+
+.section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;  
+}
+
+.btn-acessar {
+  position: relative;
+  top: 30px;
+  height: 50px;
+  padding: 0 30px;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  cursor: pointer;
+  color: var(--white);
+  background-color: var(--black-s);
+  border-radius: 20px;
+  border: 3px solid var(--white);
+  box-shadow: 0 0 20px var(--purple);
+  transition: 0.2s ease;
+}
+.btn-acessar:hover{
+  transform: scale(1.1);
+  background-color: var(--black);
+  box-shadow: 0 0 30px var(--purple);
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+h4 {
+  color: white;
+  display: flex;
+  font-size: 25px;
+  text-align: left;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0.5px;
+  margin: 20px 0 30px;
+  text-shadow: 0 0 10px rgba(16, 64, 74, 0.5);
+}
+
+footer {
+  margin-top: 150px; /* Ajuste o valor conforme necessário para abaixar o rodapé */
+  display: flex;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 25px; 
+}
+
+footer img {
+  height: 50px;
+  height: 50px;
+}
+
+footer img:hover {
+  transform: scale(1.1);
+}
+
+
+a:-webkit-any-link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}

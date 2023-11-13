@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="imagex/png" href="./img/iconpix.png">
+	<title>Correção Gabarito</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='style3.css') }}">
+	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+	<header>
+		<a target="_blank" href="https://www.pixforce.com.br"><img class="pixforceimg" src="static/img/pix-force.png"
+				alt="PixForce"></a>
+		<a target="_blank" href="https://meninas.ufv.br"><img class="meninasimg" src="static/img/meninas-logo2.png"
+				alt="Meninas"></a>
+		<a target="_blank" href="http://ufv.br"><img class="ufvimg" src="static/img/ufv.png" alt="UFV"></a>
+	</header>
+	<div class="section">
+		<div class="texto-container">
+			<div class="professor">
+				<h1>Instruções Gabarito (Professor)</h1>
+				<h4>
+					<ol>
+						<li>Verifique a barra de tarefas, a janela "Gabarito" estará aberta.</li>
+						<li>Posicione o gabarito em frente a camera. </li>
+						<li>Verifique se a grade das alternativas está azul.</li>
+						<li>Pressione a tecla "s" para salvar o gabarito do professor.</li>
+						<li>Pressione a tecla "q" para fechar a janela e abrir a do cartão-resposta.</li>
+					</ol>
+				</h4>
+			</div>
+			<div class="aluno">
+				<h1>Instruções Cartão de Respostas (Aluno)</h1>
+				<h4>
+					<ol>
+						<li>A janela abrirá automaticamente.</li>
+						<li>Pressione a tecla "s" para  salvar o gabarito do aluno.</li>
+						<li>Pressione "s" novamente para repetir o processo.</li>
+						<li>Pressione a tecla "q" para fechar o sistema.</li>
+					</ol>
+				</h4>
+			</div>
+		</div>
+		<div>
+			<img class="video-container" src="{{ url_for('video_feed') }}" width="600" height="400" />
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" type="imagex/png" href="{{ url_for('static', filename='/img/iconpix.png') }}">
+  <title>Login Usuário</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" /> <!--folha de estilo externa-->
+</head>
+<body>
+
+  <!--cadastro-->
+  <div class="container" id="container">
+    <div class="formulario-container registro-container">
+      <form>
+        <h1>Cadastro</h1>
+        <div class="campo-formulario">
+          <input type="text" id="nome" placeholder="Nome" />
+          <small id="nome-erro"></small>
+          <span></span>
+        </div>
+        <div class="campo-formulario">
+          <input type="email" id="email" placeholder="E-mail" />
+          <small id="email-erro"></small>
+          <span></span>
+        </div>
+        <div class="campo-formulario">
+          <input type="password" id="senha" placeholder="Senha" />
+          <small id="senha-erro"></small>
+          <span></span>
+        </div>
+        <div class="content">
+          <input type="checkbox" name="termos-uso" id="termos-uso" required>
+          <label for="termos-uso">Aceito os <!--<a href="termos-de-uso.html">-->Termos de Uso</a></label>
+        </div>
+        <button type="submit" value="submit"><a href="{{ url_for('termos') }}">Logar</button></a>
+        <span>Já possui uma conta?</span>
+        <div class="redesocial-container">
+          <a href="#" class="redesocial"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="redesocial"><i class="fa-brands fa-google"></i></a>
+          <a href="#" class="redesocial"><i class="fa-brands fa-tiktok"></i></a>
+        </div>
+      </form>
+    </div>
+
+    <!--login-->
+    <div class="formulario-container login-container">
+      <form class="form-lg">
+        <h1>Login</h1>
+        <div class="campo-formulario2">
+          <input type="email" class="email-2" placeholder="E-mail" />
+          <small class="email-erro-2"></small>
+          <span></span>
+        </div>
+        <div class="campo-formulario2">
+          <input type="password" class="senha-2" placeholder="Senha" />
+          <small class="senha-erro-2"></small>
+          <span></span>
+        </div>
+        <div class="content">
+          <div class="checkbox">
+            <input type="checkbox" name="checkbox" id="checkbox" />
+            <label for="">Lembrar</label>
+          </div>
+          <div class="pass-link">
+            <a href="#">Esqueci a senha</a>
+          </div>
+        </div>
+
+        <button type="submit" value="submit"> <a href="{{ url_for('termos') }}">Entrar</button></a>
+
+        <span>Entrar com outra conta</span>
+        <div class="redesocial-container">
+          <!--biblioteca icones Font Awesome-->
+          <a href="#" class="redesocial"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="redesocial"><i class="fa-brands fa-google"></i></a>
+          <a href="#" class="redesocial"><i class="fa-brands fa-tiktok"></i></a>
+        </div>
+      </form>
+    </div>
+    <div class="overlay-container">
+      <div class="overlay">
+        <div class="overlay-panel overlay-left">
+          <h1 class="titulo">
+            TriForce <br />
+            <!--login-->
+          </h1>
+          <p>É uma solução para correção automática de provas e simulados de múltipla escolha, utilizado por
+            educadores, professores e instituições de ensino.
+          </p>
+          <button class="personalizado" id="login">
+            Iniciar sessão
+            <i class="fa-solid fa-arrow-left"></i>
+          </button>
+        </div>
+        <div class="overlay-panel overlay-right">
+          <h1 class="titulo">
+            Correção de Gabaritos <br />
+            Automatizado
+          </h1>
+          <p>
+            Solução de visão computacional, baseada em inteligência artificial e aprendizado de máquina.
+          </p>
+          <button class="personalizado" id="registro">
+            Cadastrar
+            <i class="fa-solid fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <a target="_blank" href="https://www.pixforce.com.br"><img class="pixforceimg" src="static/img/pix-force.png"
+        alt="PixForce"></a>
+    <a target="_blank" href="https://meninas.ufv.br"><img class="meninasimg" src="static/img/meninas-logo2.png"
+        alt="Meninas"></a>
+    <a target="_blank" href="http://ufv.br"><img class="ufvimg" src="static/img/ufv.png" alt="UFV"></a>
+  </footer>
+</body>
+<script src="{{ url_for('static', filename='main.js') }}"></script>
+</html>
