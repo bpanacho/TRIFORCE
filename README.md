@@ -15,7 +15,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&link=https://flask.palletsprojects.com/)&nbsp;
 ![Jinja2](https://img.shields.io/badge/-Jinja2-0D1117?style=for-the-badge&logo=jinja&labelColor=0D1117&link=https://jinja.palletsprojects.com/)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117&link=https://opencv.org/)&nbsp;
-![OpenPYXL](https://img.shields.io/badge/-🌐%20Pontuação-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![OpenPYXL](https://img.shields.io/badge/-🌐%20OpenPYXL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 
 ### Versões:
