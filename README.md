@@ -1,7 +1,8 @@
-# TRIFORCE
+w# TRIFORCE
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral+https://emojipedia.org/down-arrow;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral;)
+(https://emojipedia.org/down-arrow;)
 <div style="text-align: justify">
   
 Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), representa uma abordagem avançada e eficiente para avaliação de testes e exames que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos candidatos nos gabaritos, eliminando a necessidade de avaliação manual.
