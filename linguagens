@@ -1,0 +1,17 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualizar diariamente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Language Stats
+        uses: davidlsharpe/language-stats@v0.3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
