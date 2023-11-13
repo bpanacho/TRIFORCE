@@ -19,6 +19,6 @@
 
 
 ### Versões:
-![1º Câmera do notebook](https://img.shields.io/badge/-📷%20Camera%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![1º Câmera do notebook](https://img.shields.io/badge/-📷%20Camera%20do%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
