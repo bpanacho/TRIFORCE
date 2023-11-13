@@ -18,13 +18,15 @@
 ![Openpyxl](https://img.shields.io/badge/-Openpyxl-0D1117?style=for-the-badge&logo=openpyxl&labelColor=0D1117&link=https://openpyxl.readthedocs.io/)&nbsp;
 
 ### VERSÕES:
-![1 -](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![2 -](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![3 -](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Ferramentas:
+![1º Câmera notebook](https://img.shields.io/badge/-📷%20Camera%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
-<br></div>
+  <br><p align="centre"><b>Contador de Visitas ao Projeto</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/bpanacho/triforce/count.svg" /></p> 
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
