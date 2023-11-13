@@ -1,3 +1,4 @@
+
 # Importação de bibliotecas necessárias
 import cv2  # OpenCV para processamento de imagem
 import pickle  # Para serialização de objetos Python
