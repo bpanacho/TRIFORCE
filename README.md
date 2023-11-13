@@ -8,8 +8,8 @@ w# TRIFORCE
 Uma solução inovadora para correção automatizada de gabaritos, fundamentada no uso de reconhecimento óptico de marcações (OMR), é uma abordagem avançada e eficiente para avaliação de provas e simulados que incluem questões fechadas. O OMR é empregado para identificar e interpretar as marcações realizadas pelos alunos nos gabaritos, de maneira rápida e precisa, eliminando a necessidade de correção manual. Ele visa melhorar a qualidade do ensino, economizando o tempo dos educadores e fornecendo feedback mais rápido aos alunos.
 
 Os algoritmos associados ao OMR viabilizam a interpretação das marcações em formatos padronizados, através da medição da porcentagem de pixels pretos presente em cada parte do gradeamento do gabarito, possibilitando a identificação correta das alternativas do cartão de resposta do aluno, possuindo: 
-✅ *Acurácia:* 100%
-✅ *Precisão:* 100%
+✅ *Acurácia: 100%*
+✅ *Precisão: 100%*
 
 Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de gabaritos.
 
