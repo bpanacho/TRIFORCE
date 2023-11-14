@@ -40,6 +40,32 @@ c. Comparação e Pontuação (opcional); ✅
 d. Relatórios Individuais (opcional); ✅
 
 e. Gerenciamento de Dados (opcional). ✅
+
+
+O que instalar:
+Python 3 
+
+Quais bibliotecas devo ter e o que devo instalar no python:
+blinker==1.6.3
+click==8.1.7
+colorama==0.4.6
+et-xmlfile==1.1.0
+Flask==3.0.0
+gunicorn==21.2.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+keyboard==0.13.5
+MarkupSafe==2.1.3
+numpy==1.26.1
+opencv-python==4.8.1.78
+openpyxl==3.1.2
+packaging==23.2
+Pillow==10.1.0
+PySimpleGUI==4.60.5
+pytesseract==0.3.10
+Werkzeug==3.0.0
+
+
   
 ### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
