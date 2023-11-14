@@ -66,6 +66,15 @@ pytesseract==0.3.10
 Werkzeug==3.0.0
 
 
+
+
+Na página de correção, siga as instruções fornecidas. Ao fechar a janela de correção, as informações serão automaticamente armazenadas no diretório do projeto. Neste local, é possível revisar e verificar cada uma das alternativas.
+
+![Captura de tela 2023-11-11 155145](https://github.com/bpanacho/TRIFORCE/assets/149902237/73d89313-2b4c-4269-8af9-91277ad1ed71)
+![Captura de tela 2023-11-11 155438](https://github.com/bpanacho/TRIFORCE/assets/149902237/da214454-5124-4cc3-aad3-38d4b1272a47)
+
+Este procedimento proporciona uma experiência eficiente e estruturada para o usuário, garantindo a captura, armazenamento e revisão precisa das informações relacionadas ao processo de correção automatizada.
+
   
 ### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
