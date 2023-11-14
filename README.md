@@ -66,6 +66,13 @@ pytesseract==0.3.10
 Werkzeug==3.0.0
 
 
+Após a conclusão do processo de instalação e a abertura do diretório baixado no Visual Studio Code (VSCode), é possível selecionar a versão desejada para compilação e execução do código. As opções incluem o arquivo app.py para a versão que utiliza a câmera padrão, app3.py para a segunda versão que utiliza uma câmera externa ou webcam, e appcelular.py que utiliza a câmera do celular.
+
+Após a seleção da versão desejada, proceda com a execução do arquivo correspondente. Será gerado um link, ao qual o usuário deve acessar para realizar o cadastro ou login em sua conta. Posteriormente, será redirecionado para a página de requisitos, e ao clicar em "Acessar Plataforma", será redirecionado para a página de correção.
+
+
+![Captura de tela 2023-11-06 141351](https://github.com/bpanacho/TRIFORCE/assets/149902237/2622cec6-0ba3-4964-bfa7-dab045f5e3b5)
+![Captura de tela 2023-11-06 142819](https://github.com/bpanacho/TRIFORCE/assets/149902237/0700c2c9-5517-4798-bcf9-225738d786ef)
 
 
 Na página de correção, siga as instruções fornecidas. Ao fechar a janela de correção, as informações serão automaticamente armazenadas no diretório do projeto. Neste local, é possível revisar e verificar cada uma das alternativas.
