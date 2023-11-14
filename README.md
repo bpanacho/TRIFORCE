@@ -74,7 +74,10 @@ Na página de correção, siga as instruções fornecidas. Ao fechar a janela de
 
 Este procedimento proporciona uma experiência eficiente e estruturada para o usuário, garantindo a captura, armazenamento e revisão precisa das informações relacionadas ao processo de correção automatizada.
 
-https://github.com/bpanacho/TRIFORCE/assets/149902237/bb7c9298-b168-43ac-84cd-c24b39aeb207
+<p align="center">
+  <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/01f6bfed-cf92-474a-83ec-4557836b47a0" width="300">
+</p>
+
 
   
 ### Linguagens:
