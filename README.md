@@ -13,7 +13,9 @@ Os algoritmos associados ao OMR viabilizam a interpretação das marcações em 
 
 ✅ *Precisão: 100%*.
 
+
 Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de gabaritos.
+
 
 O escopo da solução contempla as seguintes funcionalidades:
 
@@ -35,11 +37,13 @@ O escopo da solução contempla as seguintes funcionalidades:
 
 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
+
 ### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
 ### Ferramentas:
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&link=https://flask.palletsprojects.com/)&nbsp;
