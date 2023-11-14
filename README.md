@@ -58,7 +58,7 @@ e. Gerenciamento de Dados (opcional). ✅
 
 O que instalar:
 
-Python 3 
+Python 3.12.0
 
 
 
