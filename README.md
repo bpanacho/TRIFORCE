@@ -29,7 +29,8 @@ O escopo da solução contempla as seguintes funcionalidades:
 - 📷 Uso de Webcam, câmera do celular ou câmera embutida no notebook para capturar imagens das provas ou simulados;
 - 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
-- Especificações cumpridas:
+Especificações cumpridas:
+
 a. Leitura das Folhas de Resposta (mandatória); ✅
 
 b. Leitura do Gabarito (opcional); ✅
