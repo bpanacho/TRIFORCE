@@ -46,25 +46,22 @@ O que instalar:
 Python 3 
 
 Quais bibliotecas devo ter e o que devo instalar no python:
-blinker==1.6.3
-click==8.1.7
-colorama==0.4.6
-et-xmlfile==1.1.0
-Flask==3.0.0
-gunicorn==21.2.0
-itsdangerous==2.1.2
-Jinja2==3.1.2
-keyboard==0.13.5
-MarkupSafe==2.1.3
-numpy==1.26.1
-opencv-python==4.8.1.78
-openpyxl==3.1.2
-packaging==23.2
-Pillow==10.1.0
-PySimpleGUI==4.60.5
-pytesseract==0.3.10
-Werkzeug==3.0.0
 
+blinker==1.6.3           | Flask==3.0.0            | itsdangerous==2.1.2
+
+click==8.1.7             | gunicorn==21.2.0         | Jinja2==3.1.2
+
+colorama==0.4.6          | keyboard==0.13.5        | MarkupSafe==2.1.3
+
+et-xmlfile==1.1.0        | numpy==1.26.1           | opencv-python==4.8.1.78
+
+openpyxl==3.1.2           | packaging==23.2         | Pillow==10.1.0
+
+PySimpleGUI==4.60.5      | pytesseract==0.3.10     | Werkzeug==3.0.0
+
+
+
+Para funcionamento:
 
 Após a conclusão do processo de instalação e a abertura do diretório baixado no Visual Studio Code (VSCode), é possível selecionar a versão desejada para compilação e execução do código. As opções incluem o arquivo app.py para a versão que utiliza a câmera padrão, app3.py para a segunda versão que utiliza uma câmera externa ou webcam, e appcelular.py que utiliza a câmera do celular.
 
@@ -75,7 +72,7 @@ Na página de correção, siga as instruções fornecidas. Ao fechar a janela de
 Este procedimento proporciona uma experiência eficiente e estruturada para o usuário, garantindo a captura, armazenamento e revisão precisa das informações relacionadas ao processo de correção automatizada.
 
 <p align="center">
-  <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/01f6bfed-cf92-474a-83ec-4557836b47a0" width="300">
+  <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/da3d78f1-a7ed-48cf-b174-b4c728c326b0.png" width="500">
 </p>
 
 
