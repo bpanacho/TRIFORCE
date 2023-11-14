@@ -1,4 +1,6 @@
-# TRIFORCE
+# TRIFORCE  <sub><sup>Autores: Bianca Panacho Ferreira, Pedro Henrique Campos Moreira</sup></sub>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral;) 
@@ -111,4 +113,3 @@ Agradecimentos a Instituições e Mentores:
 *Estendemos os nossos agradecimentos aos mentores do Hackathon, nossos professores que desempenharam papéis fundamentais em nossa jornada. Às figuras inspiradoras, Liziane Soares, Larissa Rodrigues, Rodrigo Moreira, Pedro Damasio e João Mari, expressamos nossa gratidão pelos preciosos ensinamentos e orientações oferecidos. Agradecemos por dedicarem seu valioso tempo para nos guiar durante o desafio, contribuindo significativamente para o nosso desenvolvimento.*
 
 
-Autores: Pedro Henrique Campos Moreira, Bianca Panacho Ferreira
