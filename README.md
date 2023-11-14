@@ -70,17 +70,11 @@ Após a conclusão do processo de instalação e a abertura do diretório baixad
 
 Após a seleção da versão desejada, proceda com a execução do arquivo correspondente. Será gerado um link, ao qual o usuário deve acessar para realizar o cadastro ou login em sua conta. Posteriormente, será redirecionado para a página de requisitos, e ao clicar em "Acessar Plataforma", será redirecionado para a página de correção.
 
-
-![Captura de tela 2023-11-06 141351](https://github.com/bpanacho/TRIFORCE/assets/149902237/2622cec6-0ba3-4964-bfa7-dab045f5e3b5)
-![Captura de tela 2023-11-06 142819](https://github.com/bpanacho/TRIFORCE/assets/149902237/0700c2c9-5517-4798-bcf9-225738d786ef)
-
-
 Na página de correção, siga as instruções fornecidas. Ao fechar a janela de correção, as informações serão automaticamente armazenadas no diretório do projeto. Neste local, é possível revisar e verificar cada uma das alternativas.
 
-![Captura de tela 2023-11-11 155145](https://github.com/bpanacho/TRIFORCE/assets/149902237/73d89313-2b4c-4269-8af9-91277ad1ed71)
-![Captura de tela 2023-11-11 155438](https://github.com/bpanacho/TRIFORCE/assets/149902237/da214454-5124-4cc3-aad3-38d4b1272a47)
-
 Este procedimento proporciona uma experiência eficiente e estruturada para o usuário, garantindo a captura, armazenamento e revisão precisa das informações relacionadas ao processo de correção automatizada.
+
+https://github.com/bpanacho/TRIFORCE/assets/149902237/bb7c9298-b168-43ac-84cd-c24b39aeb207
 
   
 ### Linguagens:
