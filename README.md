@@ -1,7 +1,10 @@
-# TRIFORCE
+# TRIFORCE  <sub><sup>Autores: Bianca Panacho Ferreira, Pedro Henrique Campos Moreira</sup></sub>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=PROJETO+TRIFORCE;Solução+Inovadora;Correção+Automatizada+de+Gabaritos;Visão+Geral;) 
+
 
 <div style="text-align: justify">
   
@@ -29,6 +32,15 @@ O escopo da solução contempla as seguintes funcionalidades:
 - 📷 Uso de Webcam, câmera do celular ou câmera embutida no notebook para capturar imagens das provas ou simulados;
 - 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
+
+Grafico de evolução do projeto mediante o numero de provas corrigidas
+
+
+<p align="center">
+  <img src=https://github.com/bpanacho/TRIFORCE/assets/149902237/48e6d386-8e61-4fe3-bd32-705b6a06277a alt="Descrição da Imagem" width="500">
+</p>
+
+
 Especificações cumpridas:
 
 a. Leitura das Folhas de Resposta (mandatória); ✅
@@ -42,32 +54,29 @@ d. Relatórios Individuais (opcional); ✅
 e. Gerenciamento de Dados (opcional). ✅
 
 
+
+
 O que instalar:
-Python 3 
+
+Python 3.12.0
+
+
 
 Quais bibliotecas devo ter e o que devo instalar no python:
 
-blinker==1.6.3           | Flask==3.0.0            | itsdangerous==2.1.2
-
-click==8.1.7             | gunicorn==21.2.0         | Jinja2==3.1.2
-
-colorama==0.4.6          | keyboard==0.13.5        | MarkupSafe==2.1.3
-
-et-xmlfile==1.1.0        | numpy==1.26.1           | opencv-python==4.8.1.78
-
-openpyxl==3.1.2           | packaging==23.2         | Pillow==10.1.0
-
-PySimpleGUI==4.60.5      | pytesseract==0.3.10     | Werkzeug==3.0.0
+<p align="center">
+  <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/9959b2f0-a70c-467a-ad2b-740c9d3e8c4d" alt="Descrição da Imagem" width="500">
+</p>
 
 
 
 Para funcionamento:
 
-Após a conclusão do processo de instalação e a abertura do diretório baixado no Visual Studio Code (VSCode), é possível selecionar a versão desejada para compilação e execução do código. As opções incluem o arquivo app.py para a versão que utiliza a câmera padrão, app3.py para a segunda versão que utiliza uma câmera externa ou webcam, e appcelular.py que utiliza a câmera do celular.
+1- Após a conclusão do processo de instalação e a abertura do diretório baixado no Visual Studio Code (VSCode), é possível selecionar a versão desejada para compilação e execução do código. As opções incluem o arquivo app.py para a versão que utiliza a câmera padrão, app3.py para a segunda versão que utiliza uma câmera externa ou webcam, e appcelular.py que utiliza a câmera do celular.
 
-Após a seleção da versão desejada, proceda com a execução do arquivo correspondente. Será gerado um link, ao qual o usuário deve acessar para realizar o cadastro ou login em sua conta. Posteriormente, será redirecionado para a página de requisitos, e ao clicar em "Acessar Plataforma", será redirecionado para a página de correção.
+2- Após a seleção da versão desejada, proceda com a execução do arquivo correspondente. Será gerado um link, ao qual o usuário deve acessar para realizar o cadastro ou login em sua conta. Posteriormente, será redirecionado para a página de requisitos, e ao clicar em "Acessar Plataforma", será redirecionado para a página de correção.
 
-Na página de correção, siga as instruções fornecidas. Ao fechar a janela de correção, as informações serão automaticamente armazenadas no diretório do projeto. Neste local, é possível revisar e verificar cada uma das alternativas.
+3- Na página de correção, siga as instruções fornecidas. Ao fechar a janela de correção, as informações serão automaticamente armazenadas no diretório do projeto. Neste local, é possível revisar e verificar cada uma das alternativas.
 
 Este procedimento proporciona uma experiência eficiente e estruturada para o usuário, garantindo a captura, armazenamento e revisão precisa das informações relacionadas ao processo de correção automatizada.
 
@@ -95,3 +104,12 @@ Este procedimento proporciona uma experiência eficiente e estruturada para o us
 ![1º Câmera do notebook](https://img.shields.io/badge/-📷%20Camera%20do%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+
+Agradecimentos a Instituições e Mentores:
+
+*Gostaríamos de expressar nossa sincera gratidão à Universidade Federal de Viçosa (UFV) e ao projeto Meninas++, em parceria com a empresa Pix Force, pela oportunidade de participar do Hackathon OMR Challenge. Agradecemos diretamente à empresa por proporcionar a oportunidade de ingressar no setor que tanto valorizamos e no qual dedicamos nosso trabalho e estudos.*
+
+*Estendemos os nossos agradecimentos aos mentores do Hackathon, nossos professores que desempenharam papéis fundamentais em nossa jornada. Às figuras inspiradoras, Liziane Soares, Larissa Rodrigues, Rodrigo Moreira, Pedro Damasio e João Mari, expressamos nossa gratidão pelos preciosos ensinamentos e orientações oferecidos. Agradecemos por dedicarem seu valioso tempo para nos guiar durante o desafio, contribuindo significativamente para o nosso desenvolvimento.*
+
+
