@@ -95,3 +95,12 @@ Este procedimento proporciona uma experiência eficiente e estruturada para o us
 ![1º Câmera do notebook](https://img.shields.io/badge/-📷%20Camera%20do%20notebook-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![2º WEBCAM](https://img.shields.io/badge/-🎥%20WEBCAM-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+
+Agradecimentos a Instituições e Mentores:
+
+Gostaríamos de expressar nossa sincera gratidão à Universidade Federal de Viçosa (UFV) e ao projeto Meninas++, em parceria com a empresa Pix Force, pela oportunidade de participar do Hackathon OMR Challenge. Agradecemos diretamente à empresa por proporcionar a oportunidade de ingressar no setor que tanto valorizamos e no qual dedicamos nosso trabalho e estudos.
+
+Estendemos os nossos agradecimentos aos mentores do Hackathon, nossos professores que desempenharam papéis fundamentais em nossa jornada. Às figuras inspiradoras, Liziane Soares, Larissa Rodrigues, Rodrigo Moreira, Pedro Damasio e João Mari, expressamos nossa gratidão pelos preciosos ensinamentos e orientações oferecidos. Agradecemos por dedicarem seu valioso tempo para nos guiar durante o desafio, contribuindo significativamente para o nosso desenvolvimento.
+
+Agradecemos a todos os envolvidos que tornaram possível a nossa participação neste desafio, estamos ansiosos para aplicar a exériência e conhecimento adquiridos em futuras oportunidades na empresa.
