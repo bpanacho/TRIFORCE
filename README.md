@@ -30,11 +30,15 @@ O escopo da solução contempla as seguintes funcionalidades:
 - 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
 - Especificações cumpridas:
-✅ a. Leitura das Folhas de Resposta (mandatória);
-✅ b. Leitura do Gabarito (opcional);
-✅ c. Comparação e Pontuação (opcional); 
-✅ d. Relatórios Individuais (opcional); 
-✅ e. Gerenciamento de Dados (opcional). 
+a. Leitura das Folhas de Resposta (mandatória); ✅
+
+b. Leitura do Gabarito (opcional); ✅
+
+c. Comparação e Pontuação (opcional); ✅ 
+
+d. Relatórios Individuais (opcional); ✅
+
+e. Gerenciamento de Dados (opcional). ✅
   
 ### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
