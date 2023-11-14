@@ -11,7 +11,7 @@ Os algoritmos associados ao OMR viabilizam a interpretação das marcações em 
 
 ✅ *Acurácia: 100%*
 
-✅ *Precisão: 100%*.
+✅ *Precisão: 100%*
 
 
 Essa abordagem inovadora ressalta-se como uma solução avançada na área de avaliação educacional, promovendo eficiência e confiabilidade no processo de correção de gabaritos.
