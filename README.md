@@ -59,9 +59,7 @@ e. Gerenciamento de Dados (opcional). ✅
 O que instalar?
 - Python 3.12.0
 
-
-
-- Quais bibliotecas devo ter e o que devo instalar no python?
+Quais bibliotecas devo ter e o que devo instalar no python?
 
 <p align="center">
   <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/9959b2f0-a70c-467a-ad2b-740c9d3e8c4d" alt="Descrição da Imagem" width="500">
