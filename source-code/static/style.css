@@ -12,7 +12,7 @@ body {
   font-family: "Poppins", sans-serif;
   overflow: hidden;
   min-height: 100vh;
-  padding-bottom: 60px; /* Ajuste o valor conforme necessário para empurrar o conteúdo para baixo */
+  padding-bottom: 60px; /*empurrar o conteúdo para baixo */
 }
 
 h1 {
