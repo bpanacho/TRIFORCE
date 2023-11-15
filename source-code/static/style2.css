@@ -94,7 +94,7 @@ h4 {
 }
 
 footer {
-  margin-top: 150px; /* Ajuste o valor conforme necessário para abaixar o rodapé */
+  margin-top: 150px; /*abaixar o rodapé */
   display: flex;
   padding: 20px;
   text-align: center;
