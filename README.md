@@ -105,7 +105,7 @@ Este procedimento proporciona uma experiência eficiente e estruturada para o us
 ![3º Câmera do celular](https://img.shields.io/badge/-📱%20Camera%20do%20celular-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 
-Agradecimentos a Instituições e Mentores:
+**Agradecimentos a Instituições e Mentores:**
 
 *Gostaríamos de expressar nossa sincera gratidão à Universidade Federal de Viçosa (UFV) e ao projeto Meninas++, em parceria com a empresa Pix Force, pela oportunidade de participar do Hackathon OMR Challenge. Agradecemos diretamente à empresa por proporcionar a oportunidade de ingressar no setor que tanto valorizamos e no qual dedicamos nosso trabalho e estudos.*
 
