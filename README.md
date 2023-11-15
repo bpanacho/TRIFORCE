@@ -33,7 +33,7 @@ O escopo da solução contempla as seguintes funcionalidades:
 - 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
 
-Grafico de evolução do projeto mediante o numero de provas corrigidas
+Grafico de evolução do projeto mediante o numero de provas corrigidas:
 
 
 <p align="center">
@@ -56,13 +56,12 @@ e. Gerenciamento de Dados (opcional). ✅
 
 
 
-O que instalar:
-
-Python 3.12.0
-
+O que instalar?
+- Python 3.12.0
 
 
-Quais bibliotecas devo ter e o que devo instalar no python:
+
+- Quais bibliotecas devo ter e o que devo instalar no python?
 
 <p align="center">
   <img src="https://github.com/bpanacho/TRIFORCE/assets/149902237/9959b2f0-a70c-467a-ad2b-740c9d3e8c4d" alt="Descrição da Imagem" width="500">
