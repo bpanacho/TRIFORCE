@@ -33,7 +33,7 @@ O escopo da solução contempla as seguintes funcionalidades:
 - 💻 Interface Web, onde os usuários podem realizar login, cadastrar novos usuários, executar o programa de correção automática e visualizar os resultados.
 
 
-Grafico de evolução do projeto mediante o numero de provas corrigidas:
+Grafico de evolução do projeto mediante o número de provas corrigidas:
 
 
 <p align="center">
